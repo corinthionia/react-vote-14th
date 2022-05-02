@@ -1,6 +1,6 @@
 ## 배포 링크
 [MailedIt Vote!](https://mailedit-vote.vercel.app)
-(현재 투표 기능은 이용 불가합니다!)
+(현재  이용 불가합니다!)
 
 ## 시연 화면
 <img width="1624" alt="스크린샷 2021-12-26 오후 5 44 30" src="https://user-images.githubusercontent.com/79887293/147411902-b2ba0c7c-3504-4686-a1bb-e4063c5e33f9.png">
